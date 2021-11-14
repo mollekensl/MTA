@@ -1,9 +1,18 @@
 body{
 	margin: 0;
+	font-family: Baskerville;
 }
 
 header{
 	text-align: center;
+	font-family: JosefinSans;
+}
+
+h2{
+	font-family: JosefinSans;
+}
+.HGWTW{
+	font-family: Ariel;
 }
 
 .topnav{
