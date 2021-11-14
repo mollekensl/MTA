@@ -34,5 +34,8 @@ div{
 	background-color: #FFFDF6;
 	border-radius: 50px;
 	text-align: center;
+}
 
+.listview{
+	text-align: left;
 }
