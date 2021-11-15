@@ -17,35 +17,7 @@ h2{
 	font-family: JosefinSans;
 }
 
-}
-
-.topnav{
-	background-color: white;
-	overflow: hidden;
-}
-
-.topnav{
-	float: left;
-	color: black;
-	text-align: center;
-	padding: 16px 300px;
-	text-decoration: none;
-	font-size: 17px;
-}
-
-.topnav hover{
-	background-color: #darkgoldenrod;
-	color: whitesmoke;
-}
-
-.topnav active {
-	background-color: #04AA6D;
-	color: white;
-}
-
 div{
-	background-color: #FFFDF6;
-	border-radius: 50px;
 	text-align: center;
 }
 
